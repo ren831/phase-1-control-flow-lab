@@ -1,11 +1,11 @@
-function scuberGreetingForFeet(){
+function scuberGreetingForFeet(sameValue) {
   // Write your code here!
 }
 
-function ternaryCheckCity(){
+function ternaryCheckCity() {
   // Write your code here!
 }
 
-function switchOnCharmFromTip(){
+function switchOnCharmFromTip() {
   // Write your code here!
 }
